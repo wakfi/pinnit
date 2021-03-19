@@ -1,0 +1,17 @@
+{
+	"prefix" : "pin!-",
+	"clientOptions": {
+        "autoReconnect": true,
+        "apiRequestMethod": "sequential",
+        "disabledEvents": ["TYPING_START","TYPING_STOP"]
+    },
+    "activity": {
+        "args": ["for 📌"],
+        "name": "for 📌",
+        "type": "WATCHING"
+    },
+    "clientStatus": {
+        "status": "online"
+    },
+	"owner": "193160566334947340"
+}

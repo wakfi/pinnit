@@ -1,0 +1,22 @@
+{
+  "name": "pinnit",
+  "version": "1.0.0",
+  "description": "Grant members the ability to pin without permission to delete",
+  "main": "pinnit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakfi/pinnit.git"
+  },
+  "author": "Walker Gray <walkergraydev@outlook.com> (https://www.walkergray.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wakfi/pinnit/issues"
+  },
+  "homepage": "https://github.com/wakfi/pinnit#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
